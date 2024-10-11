@@ -1,0 +1,19 @@
+Super Sammy’s Super Sub Maker User Manual
+
+The program works by selecting different buttons in order to create your ideal sub sandwich.
+
+To start, select a bread type. Only one type of bread can be selected at a time.  The default bread type is artisan Italian.
+
+Next, select bread length.  Only one length of bread can be selected at time.  The default bread length is 4 inches.
+
+Next, select bread toasted level.  Only one toasted level can be selected at a time.  The default toasted level is untoasted.
+
+Next, select meat toppings.  You do not have to select any meat toppings if you wish.  As many meat toppings as you like can be selected at a time.  The default is no meat toppings selected.
+
+Next, select cheese toppings.  You do not have to select any cheese toppings if you wish.  As many cheese toppings as you like can be selected at a time.  The default is no cheese toppings selected.
+
+Next, select vegetable toppings.  You do not have to select any vegetable toppings if you wish.  As many vegetable toppings as you like can be selected at a time.  The default is no vegetable toppings selected.
+
+Next, select sauce toppings.  You do not have to select any sauce toppings if you wish.  As many sauce toppings as you like can be selected at a time.  The default is no sauce toppings selected.
+
+Then, you can click the “Finish your sandwich" button to finish your selection.  A scrollable window will appear showing the details of your sandwich.
